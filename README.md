@@ -1,2 +1,4 @@
 # Funny-Virus
-Basically, https://www.youtube.com/watch?v=_nc4uJM6qJ4
+For educational purpose only!
+
+I tried to recreate the funny virus from a very old video, yeah.
